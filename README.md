@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thereciandanu
 - 👀 I’m interested in coding,robotics, AI and Machine Learning
 - 🌱 I’m currently learning Information Science at the University of Nairobi.
-- 💞️ I’m looking to collaborate on Hackathons and Conferences.
+- 💞️ I’m looking to collaborate on Hackathons, Web Development Programmes and Conferences.
 - 📫 How to reach me thereciandanu@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: smiling girl
